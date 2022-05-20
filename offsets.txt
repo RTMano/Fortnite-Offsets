@@ -1,18 +1,22 @@
-Uworld: 0xC6B3D48
-GObject: 0xC4FF7F8
-BoneMatrix: 0x4E93AC0
-
-PlayerCameraManager: 0x328
-OwningGameInstance: 0x1a8
+uworld : 0xC6B5D08
+GObject : 0xC501850
+BoneMatrix : 0X4E94C18
+ProjectWorldToScreen : 0x86E49A4
+Mesh : 0x2F0
+AActors : 0x98
+LocalPawn : 0x310
+playerController : 0x30
+OwningGameInstance: 0x1A8
 CurrentActorMesh: 0x2f0
 RelativeLocation: 0x128
 RelativeRotation: 0x140
-RelativeLocation: 0x128
 PlayerController: 0x30
 RootComponent: 0x188
 PlayerState: 0x290
 LocalPlayers: 0x38
 TeamIndex: 0x1010
-LocalPawn: 0x310
 
+
+
+ImageBase:7FF665C90000
 
